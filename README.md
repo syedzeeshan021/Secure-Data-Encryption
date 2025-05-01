@@ -87,5 +87,5 @@ secure-data-vault/
 
 ## License
 
-MIT © Your Name
+MIT © Syed Zeeshan Iqbal
 
